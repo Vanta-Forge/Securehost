@@ -23,6 +23,13 @@ This project will be built with the assistance of AI. Being open-source, you can
 
 To make things easier, I will try to add a README alongside the code so you can simply **copy the link of the repository and paste it to the AI**. The AI can then access the repository and help you build your project accordingly.
 
+## Trade-offs & Limitations
+
+- **⚡ Not built for massive scale:** This model is proper for starting and moderate startups, and even for high-level use—but if your scale reaches millions of users, it will cause extreme delay. At that point, you will have to go with other ways for protection.
+- **🎯 Best for personal & public projects:** It is best suited for showcasing your personal projects and public projects.
+- **💡 A spark for others:** It will definitely inspire a few other minds out there, so they might bring anything to fix the problem at insane scale.
+- **🔍 Ongoing research:** I will try my hard to find an appropriate way other than this one for insane scales.
+
 ## Contact
 
 - **GitHub:** [Vanta-Forge](https://github.com/Vanta-Forge)
